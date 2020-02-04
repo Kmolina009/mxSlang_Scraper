@@ -1,0 +1,17 @@
+{
+  "name": "mxslang_scraper",
+  "version": "1.0.0",
+  "description": "A webscrapper project made to help retrieve slang words from sites to help my team with content review analysis. Gather data, Parse and \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[p\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cadd compile to a list as a reference\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[for future reference.",
+  "main": "data_scrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keven Molina\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[_",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^2.1.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
